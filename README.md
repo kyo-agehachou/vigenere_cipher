@@ -1,4 +1,4 @@
-# vigenere_cypher
+# vigenere_cipher
 
 Cifra de Vigenere
 
